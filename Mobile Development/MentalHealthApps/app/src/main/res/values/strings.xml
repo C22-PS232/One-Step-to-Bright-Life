@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MentalHealthApps</string>
+    <string name="Location" />
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login_as_mentor">Login as Mentor</string>
+    <string name="login_as_user">Login as User</string>
+    <string name="sign_up">Sign up</string>
+    <string name="nickname">Nickname</string>
+    <string name="contact_phone">Contact phone</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="profile">Profile</string>
+    <string name="schedule">Schedule</string>
+    <string name="home">Home</string>
+    <string name="consultation">Consultation</string>
+    <string name="cancel">Cancel</string>
+    <string name="history_test">History Test</string>
+</resources>
